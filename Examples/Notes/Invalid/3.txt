@@ -1,0 +1,1 @@
+Selects a column that doesnt exists from an existing table

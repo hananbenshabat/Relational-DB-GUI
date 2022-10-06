@@ -1,0 +1,1 @@
+All of the data, unfiltered from the artists table
