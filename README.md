@@ -1,6 +1,9 @@
 # Relational-DB-GUI
 ## Graphical User Interface for inserting and displaying SQL queries, an explanation of their output and viewing their output from Chinook Data Base.
 
+### Preview
+
+https://user-images.githubusercontent.com/75164307/195117146-0dafb5c4-af01-42e9-af4c-a9dc4f014cd2.mp4
 
 ### Viewing added queries
 ![Viewing added queries](https://user-images.githubusercontent.com/75164307/194308751-70211d10-54ff-48c0-8de0-1a641948caac.jpg)
